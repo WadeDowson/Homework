@@ -1,0 +1,15 @@
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/bin/Debug/net7.0/Homework2
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/bin/Debug/net7.0/Homework2.deps.json
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/bin/Debug/net7.0/Homework2.runtimeconfig.json
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/bin/Debug/net7.0/Homework2.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/bin/Debug/net7.0/Homework2.pdb
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.csproj.AssemblyReference.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfoInputs.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfo.cs
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/refint/Homework2.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.pdb
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Homework2/obj/Debug/net7.0/ref/Homework2.dll
