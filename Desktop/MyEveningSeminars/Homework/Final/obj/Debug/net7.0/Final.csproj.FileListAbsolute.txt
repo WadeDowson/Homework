@@ -1,0 +1,15 @@
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/bin/Debug/net7.0/Final
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/bin/Debug/net7.0/Final.deps.json
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/bin/Debug/net7.0/Final.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/bin/Debug/net7.0/Final.pdb
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.pdb
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/wadedowson/Desktop/MyEveningSeminars/Homework/Final/obj/Debug/net7.0/ref/Final.dll
